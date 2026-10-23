@@ -4,7 +4,7 @@
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-red.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![Platform: ESP8266](https://img.shields.io/badge/Platform-ESP8266-blue.svg)](https://www.espressif.com/en/products/socs/esp8266)
 [![Framework: Arduino](https://img.shields.io/badge/Framework-Arduino-teal.svg)](https://www.arduino.cc/)
-[![GitHub Release](https://img.shields.io/github/v/release/farelgilang855-netizen/esp32-ota?color=blueviolet)](https://github.com/farelgilang855-netizen/esp32-ota/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/ZaxxyChill/esp32-ota?color=blueviolet)](https://github.com/ZaxxyChill/esp32-ota/releases)
 
 **ESP32 Universal GitHub OTA Framework** adalah template/boilerplate *production-ready* untuk memperbarui firmware perangkat **ESP32 & ESP8266** dari jarak jauh (**Over-The-Air / OTA**) menggunakan **GitHub Releases** sebagai cloud server distribusi firmware gratis dan andal.
 

@@ -22,7 +22,7 @@ const char* WIFI_PASSWORD = "PASSWORD_WIFI_ANDA";
 
 // URL file binary rilis terbaru di GitHub Releases
 // Format: https://github.com/<USERNAME>/<REPO>/releases/latest/download/<NAMA_FILE>.ino.bin
-const char* FIRMWARE_URL  = "https://github.com/farelgilang855-netizen/esp32-ota/releases/latest/download/esp32_github_ota_universal.ino.bin";
+const char* FIRMWARE_URL  = "https://github.com/ZaxxyChill/esp32-ota/releases/latest/download/esp32_github_ota_universal.ino.bin";
 
 // Versi firmware saat ini (Tingkatkan angka ini setiap membuat rilis baru)
 const char* CURRENT_VERSION = "1.0.0";

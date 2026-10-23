@@ -12,7 +12,7 @@ const char* password = "PASSWORD_WIFI_KAMU";
 // PENGATURAN GITHUB OTA
 // ==========================================
 // Link sudah otomatis menggunakan "/latest/"
-const char* firmware_url = "https://github.com/farelgilang855-netizen/esp32-ota/releases/latest/download/esp32_github_ota_rgb.ino.bin";
+const char* firmware_url = "https://github.com/ZaxxyChill/esp32-ota/releases/latest/download/esp32_github_ota_rgb.ino.bin";
 
 // Versi firmware (Ubah jadi 3.0.0)
 String currentVersion = "3.0.0"; 
